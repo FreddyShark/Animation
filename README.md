@@ -12,4 +12,4 @@
 	* wheel 0.32.0
 
 * Run bouncing_balls.py and Wait for texture rendering.
-* Use Left mouse click to shoot buttons and ESC to exit
+* Use Left mouse click to shoot balls and ESC to exit
